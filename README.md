@@ -1,5 +1,6 @@
-## Hi there 👋
+# Olá, eu sou o Kaue Marini! 👋
 
+Sou um desenvolvedor apaixonado por análise de dados e automação de processos, atualmente focando em...
 <!--
 **KaueMarini/KaueMarini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
