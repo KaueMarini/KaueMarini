@@ -1,13 +1,3 @@
-Claro! Modifiquei a seção "Minhas Habilidades" no código do README para incluir os ícones de JavaScript, Python e C#.
-
-Aqui está o código completo e atualizado para você copiar e colar no seu README.md:
-
-Markdown
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTNrczRkOWd2aG52Y2R6aGdqamJmc2RqeGdvcjBja3JldDM3aWg1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggACpCjo6iDX2j/giphy.gif" width="600">
-</p>
-
 <h1 align="center">Olá, eu sou o Kaue Marini! 👋</h1>
 
 <p align="center">
