@@ -29,8 +29,6 @@ Meu objetivo é transformar ideias complexas em realidade digital, sempre buscan
 </p>
 <p align="center">
 
-  <p align="center">
-  <img src="https://github.com/KaueMarini/KaueMarini/raw/output/github-contribution-grid-snake.svg" alt="snake"/>
 </p>
 <i>E conhecimentos em plataformas <b>Low-Code</b> e desenvolvimento de <b>APIs RESTful</b>.</i>
 </p>
@@ -39,4 +37,8 @@ Meu objetivo é transformar ideias complexas em realidade digital, sempre buscan
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaueMarini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaueMarini&layout=compact&langs_count=7&theme=dracula"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/KaueMarini/KaueMarini/raw/output/github-contribution-grid-snake.svg" alt="snake"/>
 </p>
