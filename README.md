@@ -8,20 +8,20 @@
 </div>
 
 <h1 align="center">
-Olá 👋, eu sou o Kaue Marini
+Kaue Marini
 <br>
 </h1>
-<h3 align="center">Desenvolvedor Full Stack apaixonado por criar soluções inovadoras.</h3>
+<h3 align="center">Full Stack Developer.</h3>
 
-👨‍💻 Sobre Mim:
+👨‍💻 About Me:
 <p>
-Sou estudante de Sistemas de Informação com uma trajetória sólida como desenvolvedor Full Stack. Minha jornada inclui experiências valiosas na <b>Fly Comunicação</b>, <b>TAKEOFF</b> e em projetos freelancer, onde pude construir e aprimorar aplicações web robustas.
+I am an Information Systems student with a solid background as a Full Stack Developer. My journey includes innovative experiences at Fly Comunicação, TAKEOFF, and in freelance projects, where I have built and enhanced robust web applications.
 </p>
 <p>
-Meu objetivo é transformar ideias complexas em realidade digital, sempre buscando aprender e aplicar as tecnologias mais eficientes. Tenho inglês avançado e adoro colaborar em equipes dinâmicas.
+My goal is to turn complex ideas into digital reality, always seeking to learn and apply the most efficient technologies. I have advanced English skills and love collaborating in dynamic teams.
 </p>
 
-🛠️ Minhas Habilidades:
+🛠️ My Skills:
 <p align="center">
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,cs,mysql,nodejs,py,react,kotlin" />
@@ -30,10 +30,10 @@ Meu objetivo é transformar ideias complexas em realidade digital, sempre buscan
 <p align="center">
 
 </p>
-<i>E conhecimentos em plataformas <b>Low-Code</b> e desenvolvimento de <b>APIs RESTful</b>.</i>
+<i>And knowledge of <b>Low-Code</b> platforms and <b>APIs RESTful</b>development.</i>
 </p>
 
-📊 Minha Atividade no GitHub:
+📊 My GitHub Activity:
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaueMarini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaueMarini&layout=compact&langs_count=7&theme=dracula"/>
