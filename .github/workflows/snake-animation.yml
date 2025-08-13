@@ -1,24 +1,23 @@
 name: Generate Snake Animation
 
-# Faz a automação rodar todo dia à meia-noite
 on:
   schedule:
     - cron: '0 0 * * *'
-  # Permite que você rode manualmente pela aba "Actions"
   workflow_dispatch:
 
 jobs:
   build:
+    # Adiciona permissão para a automação escrever no repositório
+    permissions:
+      contents: write
+
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
 
       - uses: Platane/snk@v3
         with:
-          # Seu nome de usuário do GitHub
           github_user_name: KaueMarini
-
-          # Arquivos que serão gerados
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
