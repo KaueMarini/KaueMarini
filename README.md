@@ -28,6 +28,10 @@ Meu objetivo é transformar ideias complexas em realidade digital, sempre buscan
 </a>
 </p>
 <p align="center">
+
+  <p align="center">
+  <img src="https://github.com/KaueMarini/KaueMarini/raw/output/github-contribution-grid-snake.svg" alt="snake"/>
+</p>
 <i>E conhecimentos em plataformas <b>Low-Code</b> e desenvolvimento de <b>APIs RESTful</b>.</i>
 </p>
 
