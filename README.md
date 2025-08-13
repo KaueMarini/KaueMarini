@@ -30,7 +30,7 @@ My goal is to turn complex ideas into digital reality, always seeking to learn a
 <p align="center">
 
 </p>
-<i>And knowledge of <b>Low-Code</b> platforms and <b>APIs RESTful</b>development.</i>
+<i>And knowledge of <b>Low-Code</b> platforms and <b>APIs RESTful</b> development.</i>
 </p>
 
 📊 My GitHub Activity:
