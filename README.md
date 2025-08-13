@@ -24,7 +24,7 @@ Meu objetivo é transformar ideias complexas em realidade digital, sempre buscan
 🛠️ Minhas Habilidades:
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,cs,mysql,nodejs,py,react" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,cs,mysql,nodejs,py,react,kotlin" />
 </a>
 </p>
 <p align="center">
