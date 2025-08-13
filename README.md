@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Kaue Marini! 👋</h1>
 
 <p align="center">
-  Sou um desenvolvedor apaixonado por análise de dados e automação de processos, atualmente focando em aprimorar minhas habilidades em desenvolvimento Back-end com Python e explorar novas tecnologias no ecossistema de nuvem. Busco constantemente por desafios que me permitam crescer e aplicar meu conhecimento para criar soluções inovadoras e eficientes.
+  Sou estudante de Sistemas de Informação, com experiência como desenvolvedor Full Stack e participação em projetos web. Atuei em empresas como a Fly Comunicação e a TAKEOFF, além de realizar projetos como freelancer. Tenho conhecimentos práticos em Python, JavaScript, HTML, CSS, C#, MySQL, Node.js, JSON, plataformas Low-Code e integração de sistemas. Também tenho familiaridade com ferramentas de versionamento, como o Git, além de possuir inglês avançado.
 </p>
 
 ---
