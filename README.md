@@ -39,3 +39,10 @@ Meu objetivo é transformar ideias complexas em realidade digital, sempre buscan
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaueMarini&layout=compact&langs_count=7&theme=dracula"/>
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KaueMarini/KaueMarini/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KaueMarini/KaueMarini/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/KaueMarini/KaueMarini/output/github-snake.svg" />
+  </picture>
+</p>
