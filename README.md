@@ -24,7 +24,7 @@ My goal is to turn complex ideas into digital reality, always seeking to learn a
  My Skills:
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,cs,mysql,nodejs,py,react,kotlin" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,cs,mysql,nodejs,py,react,kotlin,c#,azure" />
 </a>
 </p>
 <p align="center">
