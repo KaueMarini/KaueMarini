@@ -13,7 +13,7 @@ Kaue Marini
 </h1>
 <h3 align="center">Full Stack Developer.</h3>
 
-👨‍💻 About Me:
+ About Me:
 <p>
 I am an Information Systems student with a solid background as a Full Stack Developer. My journey includes innovative experiences at Fly Comunicação, TAKEOFF, and in freelance projects, where I have built and enhanced robust web applications.
 </p>
@@ -21,10 +21,10 @@ I am an Information Systems student with a solid background as a Full Stack Deve
 My goal is to turn complex ideas into digital reality, always seeking to learn and apply the most efficient technologies. I have advanced English skills and love collaborating in dynamic teams.
 </p>
 
-🛠️ My Skills:
+ My Skills:
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,cs,mysql,nodejs,py,react,kotlin" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,cs,mysql,nodejs,py,react,kotlin,react" />
 </a>
 </p>
 <p align="center">
