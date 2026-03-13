@@ -19,7 +19,7 @@
 ---
 
 ### About Me
-I am a Software Engineer specialized in **Artificial Intelligence, Machine Learning, and RPA**. My work focuses on bridging complex business logic with autonomous AI agents to drive operational efficiency.
+I am a Software Engineer specialized in **Artificial Intelligence, Machine Learning, and RPA**. My work focuses on bridging business logic with autonomous AI agents to drive operational efficiency.
 
 -  **Current Focus:** Generative AI, Multi-Agent Systems (CrewAI/LangChain), and RAG Architectures.
 -  **B2B Impact:** Proven experience delivering robust SaaS products, from logistical routing to multimodal AI solutions.
