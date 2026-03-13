@@ -16,17 +16,17 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 I am a Software Engineer specialized in **Artificial Intelligence, Machine Learning, and RPA**. My work focuses on bridging complex business logic with autonomous AI agents to drive operational efficiency.
 
-- 🤖 **Current Focus:** Generative AI, Multi-Agent Systems (CrewAI/LangChain), and RAG Architectures.
-- 🚀 **B2B Impact:** Proven experience delivering robust SaaS products, from logistical routing to multimodal AI solutions.
-- 🎓 **Academic:** Information Systems student at UNISANTA.
-- 🏆 **Recognition:** Hackathon Mentor @ Zoho Brazil.
+-  **Current Focus:** Generative AI, Multi-Agent Systems (CrewAI/LangChain), and RAG Architectures.
+-  **B2B Impact:** Proven experience delivering robust SaaS products, from logistical routing to multimodal AI solutions.
+-  **Academic:** Information Systems student at UNISANTA.
+-  **Recognition:** Hackathon Mentor @ Zoho Brazil.
 
 ---
 
-### 🛠 Tech Stack & Tools
+###  Tech Stack & Tools
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,typescript,nextjs,nodejs,react,supabase,postgresql,mysql,docker,git" />
@@ -39,7 +39,7 @@ I am a Software Engineer specialized in **Artificial Intelligence, Machine Learn
 
 ---
 
-### 📊 My Stats
+###  My Stats
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaueMarini&layout=compact&langs_count=7&theme=dracula&cache_seconds=3600"/>
 </p>
