@@ -11,7 +11,9 @@
 <h3 align="center">AI & RPA Engineer | Machine Learning Specialist | Full Stack Developer</h3>
 
 <p align="center">
-  <i>Architecting autonomous digital workforces and intelligent SaaS ecosystems.</i>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0077B5&center=true&vCenter=true&width=500&lines=Building+autonomous+digital+workforces;Architecting+Multi-Agent+Systems;Transforming+B2B+operations+with+AI" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
